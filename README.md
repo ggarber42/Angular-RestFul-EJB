@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Sobre
 
-O trabalho mostra uma integração muito simples com uma API RESTful em EJB
+O trabalho mostra uma integração muito simples com uma API RESTful em EJB.
 
 ## Guia
 
